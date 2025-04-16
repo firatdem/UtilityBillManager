@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityBillManager", "UtilityBillManager\UtilityBillManager.csproj", "{691D264A-55DC-28B8-3B14-E8E9D3BFFA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691D264A-55DC-28B8-3B14-E8E9D3BFFA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691D264A-55DC-28B8-3B14-E8E9D3BFFA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691D264A-55DC-28B8-3B14-E8E9D3BFFA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691D264A-55DC-28B8-3B14-E8E9D3BFFA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18F079C2-289E-4FE9-A62E-BC93BA384F8F}
+	EndGlobalSection
+EndGlobal

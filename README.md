@@ -1,6 +1,8 @@
-# Utility Bill Manager
+## Utility Bill Manager
 
-A lightweight REST API built with ASP.NET Core and Entity Framework for managing utility bills. This project was developed to gain hands-on experience building modern Web APIs in C#.
+A lightweight RESTful API for tracking utility bills — including usage, cost, and account details. Built with ASP.NET Core and EF Core, this project calculates cost per kWh and stores billing data in a local SQLite database.
+
+It includes full Swagger integration for easy testing and serves as a foundation for future full-stack billing or reporting tools.
 
 ---
 
